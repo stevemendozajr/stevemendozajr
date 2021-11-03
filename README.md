@@ -1,5 +1,5 @@
 ### Hey there, it's a me, Steve! 👨🏻‍💻
-I'm a Data Analyst/Senior Consultant at <strong>Deloitte</strong> . I previously worked at Vanguard within the Global Investment Data Management Team.
+I'm a Data Analyst/Senior Consultant. Skills in Python, SQL, PySpark, VBA, HTML, CSS.
 
 ## Current Projects <br/>
 > 🔜 [COMING SOON](https://github.com/stevemendozajr) - COMING SOON.
