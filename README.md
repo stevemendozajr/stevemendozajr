@@ -11,9 +11,9 @@ I'm a Data Analyst/Senior Consultant. Skills in Python, SQL, PySpark, VBA, HTML,
 
 
 ## Hobbies
-☕️ Lover of Coffee <br/>
-🏋️‍♂️ Lifter of Weights </br>
-📷Shutterbug
+☕️  Lover of Coffee <br/>
+🏋️‍♂️  Lifter of Weights </br>
+📷  Shutterbug
 
 
 ## Let's Connect!
