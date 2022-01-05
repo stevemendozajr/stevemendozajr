@@ -1,13 +1,13 @@
 ### Hey there, it's a me, Steve! 👨🏻‍💻
-I'm a Data Analyst/Senior Consultant. Skills in Python, SQL, PySpark, VBA, HTML, CSS.
+I'm a Big Data Engineer. Skills in Python, SQL, PySpark, VBA, HTML, CSS.
 
 ## Current Projects <br/>
 > 🔜 [COMING SOON](https://github.com/stevemendozajr) - COMING SOON.
 
 ## Core Values
 🧠  Growth Mindset <br/>
-🤝Help Others <br/>
-💡Always Be Learning <br/>
+🤝  Help Others <br/>
+💡  Always Be Learning <br/>
 
 
 ## Hobbies
