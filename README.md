@@ -1,5 +1,5 @@
 ### Hey there, it's a me, Steve! 👨🏻‍💻
-I'm a Big Data Engineer. Skills in Python, SQL, PySpark, VBA, HTML, CSS.
+I'm a Senior Data Engineer. Skills in Python, SQL, PySpark, Azure.
 
 ## Current Projects <br/>
 > 🔜 [COMING SOON](https://github.com/stevemendozajr) - COMING SOON.
