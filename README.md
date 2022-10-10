@@ -2,7 +2,7 @@
 I'm a Senior Data Engineer. Skills in Python, SQL, PySpark, Azure.
 
 ## Current Projects <br/>
-> 🔜 [COMING SOON](https://github.com/stevemendozajr) - COMING SOON.
+> 🔜 - COMING SOON.
 
 ## Core Values
 🧠  Growth Mindset <br/>
@@ -18,7 +18,7 @@ I'm a Senior Data Engineer. Skills in Python, SQL, PySpark, Azure.
 
 ## Let's Connect!
 - [HackerRank](https://www.hackerrank.com/stevemendozajr)<br/>
-- [Portfolio](https://stevemendozajr.github.io/) <br/>
+- [Portfolio Website](https://stevemendozajr.github.io/) <br/>
 
 
 
