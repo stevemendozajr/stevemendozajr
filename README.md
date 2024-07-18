@@ -1,5 +1,5 @@
 ### Hey there, it's a me, Steve! 👨🏻‍💻
-I'm a Senior Data Engineer. Skills in Python, SQL, PySpark, Azure, Git, Jenkins, Airflow.
+I'm a Data Engineer. Skills in Python, SQL, PySpark, Azure, Git, Jenkins, Airflow.
 
 ## Current Projects <br/>
 > 🔜 - COMING SOON.
